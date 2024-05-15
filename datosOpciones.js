@@ -1,7 +1,7 @@
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '72ec21ba09msh1c0852b52a50be4p14f3f8jsn7b0a84bf1298',
+		'X-RapidAPI-Key': 'a0e7134546mshd55950317fbf94fp15f17djsnd875748f1d4c',
 		'X-RapidAPI-Host': 'emoji3.p.rapidapi.com'
 	}
 };
